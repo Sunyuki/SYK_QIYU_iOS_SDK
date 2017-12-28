@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SYK_QIYU_iOS_SDK"
-  s.version      = "0.0.3"
+  s.version      = "0.0.4"
   s.summary      = "23123"
   s.osx.deployment_target = '10.8'
   s.ios.deployment_target = '7.0'
@@ -95,7 +95,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = '*'
+  s.source_files  = 'SYK_QIYU_iOS_SDK/*'
   s.requires_arc = true
   # s.exclude_files = "Classes/Exclude"
 
