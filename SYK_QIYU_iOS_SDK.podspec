@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "SYK_QIYU_iOS_SDK"
-  s.version      = “0.0.2”
+  s.version      = "0.0.3"
   s.summary      = "23123"
   s.osx.deployment_target = '10.8'
   s.ios.deployment_target = '7.0'
